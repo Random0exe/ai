@@ -1,0 +1,46 @@
+EXP1 - Toy Problem
+maximum_ticket_price.py
+banana.py
+n_queens.py
+water_jug.py
+
+EXP2 - Graph Coloring Problem
+edge_color.py
+vertex_color.py
+face_color.py
+
+EXP3 - Constraint Satisfaction Problem
+crypto_arithmetic.py
+
+EXP4 - BFS and DFS
+bfs_dfs.py
+
+EXP5 - Best First search and A* Algorithm
+best_first_search.py
+a_star.py
+tsp.py
+
+EXP6 - Implementation of uncertain method
+monty_hall.py
+
+EXP7 - Unification and Resolution
+unification.py
+resolution.py
+
+EXP8 - k-means and linear regression
+k_means.py
+linear_regression.py
+
+EXP9 - Implementation of NLP
+sentiment_analysis.py
+
+EXP10 - Implementation of Deep Learning
+breast_cancer.py
+
+minmax Problem
+alphabeta_pruning.py
+tictactoe.py
+
+extra
+Rule based inference - inference.py
+svm.py
